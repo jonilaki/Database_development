@@ -1,0 +1,9 @@
+
+To create a database ,use create database statement
+Example:To create a shop DB
+create database shop;
+To select a database:
+use databasename;
+example:
+use shop;
+
