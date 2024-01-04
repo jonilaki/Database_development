@@ -1,0 +1,6 @@
+Steps to create a DB
+1. Requirements system
+2.Gathering data
+3.Analyse data
+4.Divide data into tables
+
